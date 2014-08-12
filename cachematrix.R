@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
 ## Write a short comment describing this function
+
 ## These functions look to see if there is already a 
 ## cached, inverted matrix in memory, so that it does
 ## not have to calculate it more than once.
